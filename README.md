@@ -1,0 +1,2 @@
+# ForexAI
+test forex ai
